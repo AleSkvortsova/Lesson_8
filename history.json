@@ -1,0 +1,72 @@
+[
+  {
+    "id": "6dd8c951-23be-4388-a164-4f081d7d1154",
+    "timestamp": "2026-04-16T00:07:48.262183",
+    "request_type": "image",
+    "request_summary": "Изображение: Вереск.jpg",
+    "response_summary": "На изображении представлен главный экран сайта отеля 'Вереск'. В центре внимания — текст, описывающий отель как SPA-курорт на берегу озера, с акцентом на его расположение в лесном парке, всего в 30 ми"
+  },
+  {
+    "id": "f85c37ae-a940-44dd-839f-91d9b3ce3610",
+    "timestamp": "2026-04-16T00:07:24.182576",
+    "request_type": "parse",
+    "request_summary": "URL: welodge.ru",
+    "response_summary": "Сайт загородного клуба WE LODGE имеет привлекательный дизайн и удобную навигацию, однако нуждается в"
+  },
+  {
+    "id": "945ce03c-ed9b-4c67-89d6-aa0c40e76fe9",
+    "timestamp": "2026-04-16T00:05:18.238464",
+    "request_type": "collect",
+    "request_summary": "URL: https://asilan.club",
+    "response_summary": "Источник: startup; title: АСИЛАН Клубный отель"
+  },
+  {
+    "id": "3b333704-4043-4ed8-9332-b96575fcb868",
+    "timestamp": "2026-04-16T00:05:18.223825",
+    "request_type": "collect",
+    "request_summary": "URL: https://https://wawelberg.com/",
+    "response_summary": "Источник: startup; ошибка: Превышено время ожидания загрузки страницы"
+  },
+  {
+    "id": "c5618c20-20dd-43e6-a7c2-d65dec34a67b",
+    "timestamp": "2026-04-16T00:05:18.199410",
+    "request_type": "collect",
+    "request_summary": "URL: https://welodge.ru",
+    "response_summary": "Источник: startup; title: Загородный клуб WE LODGE официальный сайт г. Санкт-Петербург"
+  },
+  {
+    "id": "87b37e89-4244-49d3-9955-c9aa8549d76b",
+    "timestamp": "2026-04-15T23:57:48.455700",
+    "request_type": "collect",
+    "request_summary": "URL: https://asilan.club",
+    "response_summary": "Источник: startup; title: АСИЛАН Клубный отель"
+  },
+  {
+    "id": "142678e1-662f-4b35-9192-83453e771317",
+    "timestamp": "2026-04-15T23:57:48.446094",
+    "request_type": "collect",
+    "request_summary": "URL: https://https://wawelberg.com/",
+    "response_summary": "Источник: startup; ошибка: Не удалось найти сайт по указанному адресу"
+  },
+  {
+    "id": "fa16d1c6-8bce-462c-bcd6-a05c0ece9761",
+    "timestamp": "2026-04-15T23:57:48.433215",
+    "request_type": "collect",
+    "request_summary": "URL: https://welodge.ru",
+    "response_summary": "Источник: startup; ошибка: Превышено время ожидания загрузки страницы"
+  },
+  {
+    "id": "154912d7-3b4d-4b61-bcc5-c536eea5b5f8",
+    "timestamp": "2026-04-15T23:56:27.260981",
+    "request_type": "image",
+    "request_summary": "Изображение: Коркино.jpg",
+    "response_summary": "Веб-интерфейс для парка-отеля 'Коркино', на странице с информацией о коттеджах. В верхней части страницы располагаются контактные данные, логотип и навигация по разделам. Основное изображение показыва"
+  },
+  {
+    "id": "f5e22ea2-8bfa-494b-a204-bc5ae70fa655",
+    "timestamp": "2026-04-15T23:55:16.926971",
+    "request_type": "image",
+    "request_summary": "Изображение: Коркино.jpg",
+    "response_summary": "На изображении представлено главное меню сайта отеля 'Lake КОРКИНО', с акцентом на раздел 'Коттеджи'. В верхней части сайта размещены контактные данные, включая номер телефона и ссылку на WhatsApp. Ос"
+  }
+]
